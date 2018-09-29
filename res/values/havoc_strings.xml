@@ -15,7 +15,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- App Title -->
-    <string name="havoc_settings_title">Havoc Settings</string>
+    <string name="havoc_settings_title">Настройки Havoc</string>
 
     <!-- Categories -->
     <string name="about_title">About</string>
@@ -52,11 +52,11 @@
     <string name="switch_bar_on">Вкл.</string>
 
     <!-- Label for feature switch [CHAR LIMIT=30] -->
-    <string name="switch_bar_off">Викл.</string>
+    <string name="switch_bar_off">Откл.</string>
 
     <!--Titles-->
     <string name="battery_sensor" >Датчик</string>
-    <string name="battery_actions" >Авт. сохранение батареи</string>
+    <string name="battery_actions" >Автосохранение батареи</string>
     <string name="battery_wakelock" >Блокировка вейклоков</string>
     <string name="battery_title">Экономия батареи</string>
     <string name="scroll_title" >Прокрутка</string>
@@ -355,72 +355,72 @@
     <string name="navbar_visibility_summary">Включить навбар</string>
 
     <!-- Recents panel settings -->
-    <string name="show_clear_all_recents_button_title">Clear all button</string>
-    <string name="show_clear_all_recents_button_summary">Show clear all button</string>
-    <string name="recents_clear_all_location_title">Clear all location</string>
-    <string name="recents_clear_all_location_top_right">Top right</string>
-    <string name="recents_clear_all_location_top_left">Top left</string>
-    <string name="recents_clear_all_location_top_center">Top center</string>
-    <string name="recents_clear_all_location_bottom_right">Bottom right</string>
-    <string name="recents_clear_all_location_bottom_left">Bottom left</string>
-    <string name="recents_clear_all_location_bottom_center">Bottom center</string>
+    <string name="show_clear_all_recents_button_title">Кнопка "Очистить все"</string>
+    <string name="show_clear_all_recents_button_summary">Показать кнопку "Очистить все"</string>
+    <string name="recents_clear_all_location_title">Положение кнопки "Очистить все"</string>
+    <string name="recents_clear_all_location_top_right">Сверху справа</string>
+    <string name="recents_clear_all_location_top_left">Сверху слева</string>
+    <string name="recents_clear_all_location_top_center">Сверху по центру</string>
+    <string name="recents_clear_all_location_bottom_right">Снизу справа</string>
+    <string name="recents_clear_all_location_bottom_left">Снизу слева</string>
+    <string name="recents_clear_all_location_bottom_center">Снизу по центру</string>
 
     <!-- QuickSettings haptic feedback -->
-    <string name="quick_settings_vibrate_title">Vibrate on touch</string>
-    <string name="quick_settings_vibrate_summary">Vibrate when touching QS tiles</string>
+    <string name="quick_settings_vibrate_title">Вибрация при касании</string>
+    <string name="quick_settings_vibrate_summary">Вибрация при касании элементов в шторке</string>
 
     <!-- Disable OS on lockscreen -->
-    <string name="block_on_secure_keyguard_title">Disable quick settings</string>
-    <string name="block_on_secure_keyguard_summary">Disables quick settings on secure lockscreen</string>
+    <string name="block_on_secure_keyguard_title">Отключить шторку</string>
+    <string name="block_on_secure_keyguard_summary">Отключить шторку на экране блокировки</string>
 
     <!-- On-The-Go -->
-    <string name="onthego_title">On-The-Go Mode</string>
-    <string name="global_actions_onthego_title">On-The-Go</string>
-    <string name="onthego_alpha_title">On-The-Go Alpha</string>
-    <string name="onthego_alpha_summary">Alpha value of the On-The-Go overlay</string>
+    <string name="onthego_title">Режим "На ходу"</string>
+    <string name="global_actions_onthego_title">На ходу</string>
+    <string name="onthego_alpha_title">"На ходу" Прозрачность</string>
+    <string name="onthego_alpha_summary">Значение прозрачности</string>
 	
-    <string name="app_ops_settings_title">App Ops</string>
-    <string name="app_ops_settings_summary">Block app permissions</string>
+    <string name="app_ops_settings_title">Операции в приложениях</string>
+    <string name="app_ops_settings_summary">>Блокировать разрешения приложений</string>
 	
     <!-- Volume key cursor control -->
-    <string name="hardware_keys_volume_keys_title">Volume buttons</string>
-    <string name="volbtn_cursor_control_title">Keyboard cursor control</string>
-    <string name="volbtn_cursor_control_off">Disabled</string>
-    <string name="volbtn_cursor_control_on">Volume up/down moves cursor left/right</string>
-    <string name="volbtn_cursor_control_on_reverse">Volume up/down moves cursor right/left</string>
-    <string name="volume_summary">Customize settings for volume buttons</string>
+    <string name="hardware_keys_volume_keys_title">Кнопки громкости</string>
+    <string name="volbtn_cursor_control_title">Управления курсора клавиатурой</string>
+    <string name="volbtn_cursor_control_off">Отключено</string>
+    <string name="volbtn_cursor_control_on">Кнопки громкости перемещают курсор вверх/вниз</string>
+    <string name="volbtn_cursor_control_on_reverse">Кнопки громкости перемещают курсор вправо/влево</string>
+    <string name="volume_summary">Настройка параметров для кнопок регулировки громкости</string>
 	
     <!-- Hide Apps from Recents -->
-    <string name="hide_apps_from_recents_title">Hide apps from recents</string>
-    <string name="hide_from_recents_add_app">Add App</string>
-    <string name="hide_apps_from_recents_summary">Select certian apps to hide in recents</string>
+    <string name="hide_apps_from_recents_title">Спрятать из недавних</string>
+    <string name="hide_from_recents_add_app">Добавить приложение</string>
+    <string name="hide_apps_from_recents_summary">Выберите приложения чтобы скрыть их из недавних</string>
 
     <!-- Keyboard and IME  --> 
-    <string name="disable_fullscreen_keyboard_title">Disable fullscreen keyboard</string> 
-    <string name="disable_fullscreen_keyboard_summary">Landscape keyboard will never take up entire screen</string> 
-    <string name="keyboard_rotation_toggle_title">Auto keyboard rotation</string> 
-    <string name="keyboard_rotation_toggle_summary">Force auto-rotate when keyboard is shown</string> 
-    <string name="keyboard_rotation_timeout_title">Auto-rotate timeout</string> 
-    <string name="keyboard_rotation_timeout_summary">Disables auto-rotate sensor <xliff:g id="rotate_timeout">%1$s</xliff:g> seconds after keyboard is hidden</string> 
-    <string name="keyboard_rotation_dialog">This feature forces auto-rotate to turn on temporarily while the keyboard is shown.  It has no effect when auto-rotate is already enabled.</string> 
-    <string name="show_enter_key_title">Show enter key</string> 
-    <string name="show_enter_key_summary">Force keyboard to show enter instead of emoticon key</string> 
-    <string name="keyboard_ime_title">IME Settings</string> 
-    <string name="keyboard_ime_summury">Advanced IME Settings</string> 
-    <string name="ime_switcher_notify">Selector notification</string> 
-    <string name="ime_switcher_notify_summary">Display input method selector notification</string> 
+    <string name="disable_fullscreen_keyboard_title">Запретить открытие клавиатуры на вес экран<</string> 
+    <string name="disable_fullscreen_keyboard_summary">Клавиатура в портретном режиме не будет занимать весь экран</string> 
+    <string name="keyboard_rotation_toggle_title">Автоповорот клавиатуры</string> 
+    <string name="keyboard_rotation_toggle_summary">Принудительный автоповорот клавиатуры</string> 
+    <string name="keyboard_rotation_timeout_title">Задержка автоповорота</string> 
+    <string name="keyboard_rotation_timeout_summary">Отключить датчик поворота через <xliff:g id="rotate_timeout">%1$s</xliff:g> секунд после скрытия клавиатуры</string> 
+    <string name="keyboard_rotation_dialog">Эта функция вынуждает автоповорот временно включаться, пока отображается клавиатура. Он не действует, когда автоповорот уже включен.</string> 
+    <string name="show_enter_key_title">Показывать клавишу ввода</string> 
+    <string name="show_enter_key_summary">Принудительно показывать клавишу ввода вместо смайлов</string> 
+    <string name="keyboard_ime_title">IME Настройки</string> 
+    <string name="keyboard_ime_summury">Дополнительные IME Настройки</string> 
+    <string name="ime_switcher_notify">Выбор ввода</string> 
+    <string name="ime_switcher_notify_summary">Показывать уведомление выбора метода ввода</string> 
 
     <!-- Volume Steps -->
-    <string name="volume_steps_title">Volume steps</string>
-    <string name="volume_steps_summary">Set custom volume steps for sounds</string>
-    <string name="volume_steps_alarm_title">Volume steps: Alarm</string>
-    <string name="volume_steps_dtmf_title">Volume steps: DTMF</string>
-    <string name="volume_steps_music_title">Volume steps: Music</string>
-    <string name="volume_steps_notification_title">Volume steps: Notification</string>
-    <string name="volume_steps_ring_title">Volume steps: Ringer</string>
-    <string name="volume_steps_system_title">Volume steps: System</string>
-    <string name="volume_steps_voice_call_title">Volume steps: Voice Call</string>
-    <string name="volume_steps_reset">Reset</string>
+    <string name="volume_steps_title">Шаги громкости</string>
+    <string name="volume_steps_summary">Настройка пользовательских уровней громкости звука</string>
+    <string name="volume_steps_alarm_title">Шаги громкости: Будильник</string>
+    <string name="volume_steps_dtmf_title">Шаги громкости: DTMF</string>
+    <string name="volume_steps_music_title">Шаги громкости: Медиа</string>
+    <string name="volume_steps_notification_title">Шаги громкости: Уведомления</string>
+    <string name="volume_steps_ring_title">Шаги громкости: Звонок</string>
+    <string name="volume_steps_system_title">Шаги громкости: Система</string>
+    <string name="volume_steps_voice_call_title">Шаги громкости: Голосовой вызов</string>
+    <string name="volume_steps_reset">Сброс</string>
     <string name="volume_steps_60" translatable="false">60</string>
     <string name="volume_steps_45" translatable="false">45</string>
     <string name="volume_steps_30" translatable="false">30</string>
@@ -429,176 +429,176 @@
     <string name="volume_steps_5" translatable="false">5</string>
 	
     <!-- Volume swap buttons -->	
-    <string name="swap_volume_buttons_title">Reorient</string>
-    <string name="swap_volume_buttons_summary">Swap volume buttons when the screen is rotated</string>
+    <string name="swap_volume_buttons_title">Смена ориентации кнопок</string>
+    <string name="swap_volume_buttons_summary">Поменять кнопки громкости местами при перевороте устройства</string>
 
     <!-- Toast icon -->
-    <string name="toast_icon_title">Toast icon</string>
-    <string name="toast_icon_summary">Display icon of activity that generates toast message</string>
+    <string name="toast_icon_title">Toast иконка</string>
+    <string name="toast_icon_summary">Отображать значок активности, который генерирует Toast сообщение</string>
 	
     <!-- Pin ripple -->
-    <string name="lockscreen_pin_ripple_title">Pin Ripple</string>
-    <string name="lockscreen_pin_ripple_summary">Disable to remove ripple when entering pin numbers</string>
+    <string name="lockscreen_pin_ripple_title">Дрожание PIN</string>
+    <string name="lockscreen_pin_ripple_summary">Отключите чтобы убрать дрожание PIN во время ввода пароля</string>
 
     <!-- Power menu on lockscreen -->
-    <string name="lockscreen_power_menu_disabled_title">Disable power menu on lock screen</string>
-    <string name="lockscreen_power_menu_disabled_summary">This will only disable the power menu on secure lock screens</string>
+    <string name="lockscreen_power_menu_disabled_title">Отключить меню питания на экране блокировки</string>
+    <string name="lockscreen_power_menu_disabled_summary">Отключить только меню питания на экране блокировки</string>
 
     <!-- Heads up -->
-    <string name="heads_up_notifications">Heads Up</string>
-    <string name="heads_up_notifications_summary">Customize the additional settings for Heads Up</string>
-    <string name="summary_heads_up_enabled">Pop-up notifications are enabled</string>
-    <string name="summary_heads_up_disabled">Pop-up notifications are disabled</string>
-    <string name="add_heads_up_package">Add app</string>
-    <string name="add_heads_up_stoplist_summary">Disable heads up notifications in these applications</string>
-    <string name="add_heads_up_blacklist_summary">Disable heads up from these applications</string>
-    <string name="heads_up_stoplist_title">Stoplist</string>
-    <string name="heads_up_blacklist_title">Blacklist</string>
-    <string name="profile_choose_app">Choose app</string>
-    <string name="dialog_delete_title">Delete</string>
-    <string name="dialog_delete_message">Remove selected item?</string>
+    <string name="heads_up_notifications">Всплывающие уведомления</string>
+    <string name="heads_up_notifications_summary">Настройте дополнительные настройки для всплывающих уведомлений</string>
+    <string name="summary_heads_up_enabled">Всплывающие уведомления включены</string>
+    <string name="summary_heads_up_disabled">Всплывающие уведомленияs отключены</string>
+    <string name="add_heads_up_package">Добавить приложение</string>
+    <string name="add_heads_up_stoplist_summary">Отключить всплывающие уведомления в этих приложениях</string>
+    <string name="add_heads_up_blacklist_summary">Отключить всплывающие уведомления от этих приложений</string>
+    <string name="heads_up_stoplist_title">Стоп Список</string>
+    <string name="heads_up_blacklist_title">Черный список</string>
+    <string name="profile_choose_app">Выберите приложение</string>
+    <string name="dialog_delete_title">Удалить</string>
+    <string name="dialog_delete_message">Удалить выбранный элемент?</string>
 
     <!-- Heads up timeout -->
-    <string name="heads_up_time_out_title">Time out</string>
-    <string name="heads_up_time_out_summary">Peeking notifications will show for <xliff:g id="number">%d</xliff:g> seconds</string>
-    <string name="heads_up_time_out_2sec">2 seconds</string>
-    <string name="heads_up_time_out_4sec">4 seconds</string>
-    <string name="heads_up_time_out_5sec">5 seconds</string>
-    <string name="heads_up_time_out_6sec">6 seconds</string>
-    <string name="heads_up_time_out_8sec">8 seconds</string>
-    <string name="heads_up_time_out_10sec">10 seconds</string>
+    <string name="heads_up_time_out_title">Таймаут</string>
+    <string name="heads_up_time_out_summary">Всплывающие уведомления будут показаны после <xliff:g id="number">%d</xliff:g> секунд</string>
+    <string name="heads_up_time_out_2sec">2 секунды</string>
+    <string name="heads_up_time_out_4sec">4 секунды</string>
+    <string name="heads_up_time_out_5sec">5 секунд</string>
+    <string name="heads_up_time_out_6sec">6 секунд</string>
+    <string name="heads_up_time_out_8sec">8 секунд</string>
+    <string name="heads_up_time_out_10sec">10 секунд</string>
 
     <!-- Heads up snooze -->
-    <string name="heads_up_snooze_title">Snooze timer</string>
-    <string name="heads_up_snooze_summary_one_minute">Swiping up on peeking notifications will snooze heads up from that application for 1 minute</string>
-    <string name="heads_up_snooze_summary">Swiping up on peeking notifications will snooze heads up from that application for <xliff:g id="number">%d</xliff:g> minutes</string>
-    <string name="heads_up_snooze_disabled_summary">Snooze timer is disabled</string>
-    <string name="heads_up_snooze_1min">1 minute</string>
-    <string name="heads_up_snooze_5min">5 minutes</string>
-    <string name="heads_up_snooze_10min">10 minutes</string>
-    <string name="heads_up_snooze_15min">15 minutes</string>
-    <string name="heads_up_snooze_20min">20 minutes</string>
+    <string name="heads_up_snooze_title">Таймер сна</string>
+    <string name="heads_up_snooze_summary_one_minute">Взмах всплывающего уведомления вверх отключит уведомления от этого приложения на 1 минуту</string>
+    <string name="heads_up_snooze_summary">Взмах всплывающего уведомления вверх отключит уведомления от этого приложения на <xliff:g id="number">%d</xliff:g> минут</string>
+    <string name="heads_up_snooze_disabled_summary">Таймер сна отключен</string>
+    <string name="heads_up_snooze_1min">1 минута</string>
+    <string name="heads_up_snooze_5min">5 минут</string>
+    <string name="heads_up_snooze_10min">10 минут</string>
+    <string name="heads_up_snooze_15min">15 минут</string>
+    <string name="heads_up_snooze_20min">20 минут</string>
 
     <!-- Brightness control -->
-    <string name="status_bar_toggle_brightness">Brightness control</string>
-    <string name="status_bar_toggle_brightness_summary">Adjust brightness by sliding across the status bar</string>
+    <string name="status_bar_toggle_brightness">Управление яркостью</string>
+    <string name="status_bar_toggle_brightness_summary">Управление яркостью ползунком</string>
 
     <!--Volume keys -->
-    <string name="volume_rocker_wake_title">Volume rocker wake</string>
-    <string name="volume_rocker_wake_summary">Pressing the volume keys will wake your device</string>
-    <string name="volume_rocker_music_controls_title">Music control</string>
-    <string name="volume_rocker_music_controls_summary">Long press volume buttons to switch tracks while screen off</string>
+    <string name="volume_rocker_wake_title">Пробуждение при нажатии на кнопки громкости</string>
+    <string name="volume_rocker_wake_summary">Нажатие на кнопку громкости разбудит устройство</string>
+    <string name="volume_rocker_music_controls_title">Управление музыкой</string>
+    <string name="volume_rocker_music_controls_summary">Долгое нажатие кнопок чтобы переключить трек</string>
 
     <!-- Smart Pixels -->
-    <string name="smart_pixels_title">Smart Pixels</string>
-    <string name="smart_pixels_summary">Save battery by shutting off extra pixels</string>
-    <string name="smart_pixels_enable_title">Enable Smart Pixels</string>
-    <string name="smart_pixels_enable_summary">Shut off pixels to reduce power consumption</string>
-    <string name="smart_pixels_on_power_save_title">Auto-enable on battery saver</string>
-    <string name="smart_pixels_on_power_save_summary">Enable Smart Pixels when battery saver is enabled</string>
-    <string name="smart_pixels_percent">Percent of pixels to disable</string>
-    <string name="smart_pixels_shift">Prevent burn-in by shifting pixels every</string>
+    <string name="smart_pixels_title">Умные пиксели</string>
+    <string name="smart_pixels_summary">Сохранить батарею отключая пиксели</string>
+    <string name="smart_pixels_enable_title">Включить умные пиксели</string>
+    <string name="smart_pixels_enable_summary">Выключить пиксели чтобы уменьшить потребление энергии</string>
+    <string name="smart_pixels_on_power_save_title">Автовключение режима энергосбережения</string>
+    <string name="smart_pixels_on_power_save_summary">Включить умные пиксели при включении режима энергосбережения</string>
+    <string name="smart_pixels_percent">Доля отключаемых пикселей</string>
+    <string name="smart_pixels_shift">Предотвращать выгорание пикселей смещая их на</string>
 
     <!-- Media art -->
-    <string name="media_art_title">Media cover art</string>
-    <string name="media_art_summary">Enable media cover art on the lockscreen</string>	
+    <string name="media_art_title">Медиа обложка</string>
+    <string name="media_art_summary">Включить медиа обложку на экране блокировки</string>	
 
     <!-- Hide brightness slider -->
-    <string name="brightness_slider_title">Brightness slider</string>
-    <string name="brightness_slider_summary">Show the brightness slider in quick settings</string>
+    <string name="brightness_slider_title">Ползунок яркости</string>
+    <string name="brightness_slider_summary">Показывать ползунок яркости в панели быстрых настроек</string>
 
     <!-- Double-tap-to sleep -->
-    <string name="double_tap_sleep_gesture_title">Double tap to sleep</string>
-    <string name="double_tap_sleep_gesture_summary">Double tap on the status bar to put the device to sleep</string>
+    <string name="double_tap_sleep_gesture_title">Двойное нажатие для сна</string>
+    <string name="double_tap_sleep_gesture_summary">Двойное нажатие на строку состояние для сна</string>
 
     <!-- DoubleTap2Sleep -->
-    <string name="double_tap_sleep_lockscreen_title">Double tap to sleep</string>
-    <string name="double_tap_sleep_lockscreen_sumary">Double tap anywhere on the lockscreen to put phone to sleep</string>
+    <string name="double_tap_sleep_lockscreen_title">Двойное нажатие для сна</string>
+    <string name="double_tap_sleep_lockscreen_sumary">Двойное нажатие на экране блокировки для сна</string>
 
     <!-- Incall vibrate options -->
-    <string name="incall_vibration_category">In-call Vibration</string>
-    <string name="incall_vibrate_connect_title">Vibrate on Connect</string>
-    <string name="incall_vibrate_call_wait_title">Vibrate on Call Waiting</string>
-    <string name="incall_vibrate_disconnect_title">Vibrate on Disconnect</string>
-    <string name="incall_notifications_vibrate">Vibrate for Notifications</string>
+    <string name="incall_vibration_category">Вибрация во время звонка</string>
+    <string name="incall_vibrate_connect_title">Вибрация при соединении</string>
+    <string name="incall_vibrate_call_wait_title">Вибрация при ожидании вызова</string>
+    <string name="incall_vibrate_disconnect_title">Вибрация при отключении</string>
+    <string name="incall_notifications_vibrate">Вибрация для уведомлений</string>
 		
     <!-- Battery light -->
-    <string name="battery_light_settings">Battery charging light</string>
-    <string name="battery_light_enable">Enable</string>
-    <string name="battery_light_allow_on_dnd_title">Battery light in Do Not Disturb mode</string>
-    <string name="battery_light_low_blinking_title">Blinking light on low battery</string>
-    <string name="battery_light_cat">Battery light color when charging</string>
-    <string name="battery_light_low_color">Low battery</string>
-    <string name="battery_light_medium_color">Medium battery</string>
-    <string name="battery_light_full_color">Almost full battery</string>
-    <string name="battery_light_reallyfull_color">Full (100) battery</string>
+    <string name="battery_light_settings">Индикатор заряда батареи</string>
+    <string name="battery_light_enable">Включить</string>
+    <string name="battery_light_allow_on_dnd_title">Индикатор батареи в режиме "не беспокоить"</string>
+    <string name="battery_light_low_blinking_title">Мерцание индикатора при низком заряде</string>
+    <string name="battery_light_cat">Цвет индикатора во время зарядки</string>
+    <string name="battery_light_low_color">Низкий заряд</string>
+    <string name="battery_light_medium_color">Средний заряд</string>
+    <string name="battery_light_full_color">Почти полный заряд</string>
+    <string name="battery_light_reallyfull_color">Полный заряд (100)</string>
 	
     <!-- Ambient display battery percentage --> 
-    <string name="ambient_battery_percent_title">Battery level</string> 
-    <string name="ambient_battery_percent_summary">Enable to show battery percent while dozing</string> 	
+    <string name="ambient_battery_percent_title">Уровень заряда внизу</string> 
+    <string name="ambient_battery_percent_summary">Отображение заряда батареи во время индикации событий</string> 	
 	
-    <string name="doze_display_title">Ambient Display</string>
+    <string name="doze_display_title">Индикация событий</string>
 
     <!-- Wakeup options -->
-    <string name="wakeup_when_plugged_unplugged_title">Wake up on charge</string>
-    <string name="wakeup_when_plugged_unplugged_summary">Wake up device if charger is plugged/unplugged.</string>
+    <string name="wakeup_when_plugged_unplugged_title">Пробуждение при подключении зарядного устройства</string>
+    <string name="wakeup_when_plugged_unplugged_summary">Пробуждение когда зарядное устройство подключено/отключено</string>
 
     <!-- Three-fingers-swipe to screenshot -->
-    <string name="three_finger_gesture">Swipe to screenshot</string>
-    <string name="three_finger_gesture_summary">Swipe three fingers to take screenshot</string>
+    <string name="three_finger_gesture">Скриншот взмахом</string>
+    <string name="three_finger_gesture_summary">Взмахните тремя пальцами чтобы сделать скриншот</string>
 	
     <!-- Wakelock blocker --> 
-    <string name="wakelock_blocker_title">Wakelock Blocker</string> 
-    <string name="wakelock_blocker_summary">Block system wakelocks</string> 
-    <string name="wakelock_blocker_save">Save</string> 
-    <string name="wakelock_list_header">Available wakelocks</string> 
-    <string name="wakelock_blocker_reload">Reload</string> 
+    <string name="wakelock_blocker_title">Блокировка вэйклоков</string> 
+    <string name="wakelock_blocker_summary">Блокировать системные вэйклоки</string> 
+    <string name="wakelock_blocker_save">Сохранить</string> 
+    <string name="wakelock_list_header">Доступные вэйклоки</string> 
+    <string name="wakelock_blocker_reload">Обновить</string> 
 
     <!-- Alarm blocker --> 
-    <string name="alarm_blocker_title">Alarm Blocker</string> 
-    <string name="alarm_blocker_summary">Block alarms while screen off</string> 
-    <string name="alarm_blocker_save">Save</string> 
-    <string name="alarm_list_header">Available alarms</string> 
-    <string name="alarm_blocker_reload">Reload</string> 
+    <string name="alarm_blocker_title">Блокировка Alarms</string> 
+    <string name="alarm_blocker_summary">Блокировать alarms при выключении экрана</string> 
+    <string name="alarm_blocker_save">Сохранить</string> 
+    <string name="alarm_list_header">Доступные alarms</string> 
+    <string name="alarm_blocker_reload">Обновить</string> 
 	
     <!-- Screen state service -->
-    <string name="screen_state_toggles_title">Suspend actions</string>
-    <string name="screen_state_toggles_summary">Actions executed on screen off</string>
-    <string name="screen_state_toggles_enable_title">Enable</string>
-    <string name="screen_state_toggles_enable_summary">Actions will be executed on screen off. On screen on the previous state will be restored.</string>
-    <string name="screen_state_toggles_mobile_title">Mobile networks</string>
-    <string name="screen_state_toggles_location_title">Location</string>
-    <string name="screen_state_toggles_twog">Switch to 2G</string>
-    <string name="screen_state_toggles_twog_summary">Network mode will be switched to 2G on screen off</string>
-    <string name="screen_state_toggles_gps">Disable GPS</string>
-    <string name="screen_state_toggles_gps_summary">GPS based location service will be disabled on screen off</string>
-    <string name="screen_state_toggles_mobile_data">Disable mobile data</string>
-    <string name="screen_state_toggles_mobile_data_summary">Mobile data will be disabled on screen off</string>
-    <string name="screen_state_off_delay_title">Screen Off actions delay</string>
-    <string name="screen_state_off_delay_summary">Number of seconds to wait before performing actions after screen off</string>
-    <string name="screen_state_on_delay_title">Screen On actions delay</string>
-    <string name="screen_state_on_delay_summary">Number of seconds to wait before performing actions after screen on</string>
+    <string name="screen_state_toggles_title">Действия при режиме сна</string>
+    <string name="screen_state_toggles_summary">Действия при выключении экрана</string>
+    <string name="screen_state_toggles_enable_title">Включить</string>
+    <string name="screen_state_toggles_enable_summary">Действия будут выполнены при выключении экрана, при его включении будет восстановлено прежнее состояние.</string>
+    <string name="screen_state_toggles_mobile_title">Мобильные сети</string>
+    <string name="screen_state_toggles_location_title">Местоположение</string>
+    <string name="screen_state_toggles_twog">Переключение на 2G</string>
+    <string name="screen_state_toggles_twog_summary">Режим сети будет переключен на 2G при выключении экрана</string>
+    <string name="screen_state_toggles_gps">Отключить GPS</string>
+    <string name="screen_state_toggles_gps_summary">GPS сервисы будут отключены при выключении экрана</string>
+    <string name="screen_state_toggles_mobile_data">Отключить мобильные данные</string>
+    <string name="screen_state_toggles_mobile_data_summary">Мобильные данные будут отключены при выключении экрана</string>
+    <string name="screen_state_off_delay_title">Задержка действий при выключении экрана</string>
+    <string name="screen_state_off_delay_summary">Количество секунд ожидания перед выполнением действий</string>
+    <string name="screen_state_on_delay_title">Задержка действий при включении экрана</string>
+    <string name="screen_state_on_delay_summary">Количество секунд ожидания перед выполнением действий</string>
 
-    <string name="sysui_qqs_count_title">Small tiles</string>	
+    <string name="sysui_qqs_count_title">Мелкие плитки</string>	
 
     <!-- CPU info -->
-    <string name="show_cpu_info">Show CPU info</string>
-    <string name="show_cpu_info_summary">Screen overlay showing current CPU info</string>	
+    <string name="show_cpu_info">Показывать информацию о процессоре</string>
+    <string name="show_cpu_info_summary">Отображение информации о процессоре на экране</string>	
 
     <!-- Fingerprint unlock keystore -->  
-    <string name="fp_unlock_keystore_title">Fingerprint unlock</string>  
-    <string name="fp_unlock_keystore_summary">Unlock device with fingerprint after reboot without PIN/Password/Pattern\nNote: at your own risk!</string>  
+    <string name="fp_unlock_keystore_title">Разблокировка отпечатком</string>  
+    <string name="fp_unlock_keystore_summary">Разблокировать устройство отпечатком после перезагрузки</string>  
 	
     <!-- Sensor block per-package -->
-    <string name="sensor_block_title">Sensor block per-package</string>
-    <string name="sensor_block_summary">Block access to certain sensors for some apps to save battery</string>
+    <string name="sensor_block_title">Блокировка датчиков</string>
+    <string name="sensor_block_summary">Блокировать доступ некоторых приложений к датчикам для сбережения энергии</string>
 
     <!-- Activity Blacklist -->
-    <string name="chooser_activity_blacklist_title">Chooser Activity blacklist</string>
-    <string name="chooser_activity_blacklist_summary">Apps to not show when tapping on a Share button</string>
-    <string name="chooser_activity_blacklist_cat_title">Blacklist</string>
-    <string name="chooser_activity_blacklist_pref_title">Add app</string>
-    <string name="chooser_activity_blacklist_pref_summary">Tap here to add, tap on added app to remove it</string>
+    <string name="chooser_activity_blacklist_title">Черный список приложений</string>
+    <string name="chooser_activity_blacklist_summary">Приложений, которые не будут отобажены при нажатии "поделиться"</string>
+    <string name="chooser_activity_blacklist_cat_title">Черный список</string>
+    <string name="chooser_activity_blacklist_pref_title">Добавить приложение</string>
+    <string name="chooser_activity_blacklist_pref_summary">Нажмите сюда чтобы добавить, нажмите на добавленные чтобы удалить</string>
 
     <!-- Battery percentage -->
     <string name="battery_style_category_title">Battery icon</string>
@@ -677,7 +677,7 @@
 
     <!-- QS footer warnings -->
     <string name="qs_footer_warnings_title">QS footer warnings</string>
-    <string name="qs_footer_warnings_summary">Display a warning at bottom of QS panel when network is monitored by external apps or vpn</string>
+    <string name="qs_footer_warnings_summary">Отобразите предупреждение внизу панели QS, когда сеть контролируется внешними приложениями или vpn</string>
 
     <string name="hardware_keys_power_category">Power Button</string>
     <string name="torch_long_press_power_gesture_title">Screen off power button torch</string>
