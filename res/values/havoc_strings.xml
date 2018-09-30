@@ -601,93 +601,93 @@
     <string name="chooser_activity_blacklist_pref_summary">Нажмите сюда чтобы добавить, нажмите на добавленные чтобы удалить</string>
 
     <!-- Battery percentage -->
-    <string name="battery_style_category_title">Battery icon</string>
-    <string name="battery_style_category_summary">Customize the battery icon in statusbar</string>
-    <string name="status_bar_battery_percentage_title">Battery percentage</string>
-    <string name="status_bar_battery_percentage_default">Hidden</string>
-    <string name="status_bar_battery_percentage_text_next">Next to the icon</string>
-    <string name="status_bar_battery_percentage_text_inside">Inside the icon</string>
+    <string name="battery_style_category_title">Иконка батареи</string>
+    <string name="battery_style_category_summary">Настроить иконку батареи в строке состояния</string>
+    <string name="status_bar_battery_percentage_title">Процент батареи</string>
+    <string name="status_bar_battery_percentage_default">Скрыть</string>
+    <string name="status_bar_battery_percentage_text_next">Рядом с иконкой</string>
+    <string name="status_bar_battery_percentage_text_inside">Внутри иконки</string>
 
     <!-- Status bar battery style-->
-    <string name="status_bar_battery_style_title">Battery style</string>
-    <string name="status_bar_battery_style_port">Portrait</string>
-    <string name="status_bar_battery_style_circle">Circle</string>
-    <string name="status_bar_battery_style_dotted_circle">Dotted circle</string>
-    <string name="status_bar_battery_style_text">Text</string>
-    <string name="status_bar_battery_style_hidden">Hidden</string>
+    <string name="status_bar_battery_style_title">Стиль батареи</string>
+    <string name="status_bar_battery_style_port">Портрет</string>
+    <string name="status_bar_battery_style_circle">Круг</string>
+    <string name="status_bar_battery_style_dotted_circle">Пунктирный круг</string>
+    <string name="status_bar_battery_style_text">Текст</string>
+    <string name="status_bar_battery_style_hidden">Скрыть</string>
 
-    <string name="notification_light_settings">Notifications light</string>
+    <string name="notification_light_settings">Уведомления подсветкой</string>
 
     <!-- Statusbar net monitor -->
-    <string name="network_traffic_state_title">Network traffic</string>
-    <string name="network_traffic_state_summary">Show net activity in statusbar</string>
-    <string name="network_traffic_autohide_threshold_title">Net activity autohide threshold (KB/s)</string>
-    <string name="network_traffic_hidearrow">Hide arrows</string>
-    <string name="network_traffic_hidearrow_summary">Hide the network traffic indicator arrows</string>
+    <string name="network_traffic_state_title">Сетевой трафик</string>
+    <string name="network_traffic_state_summary">Показывать сетевую активность в панели уведомлений</string>
+    <string name="network_traffic_autohide_threshold_title">Порог неактивности трафика (Кб/с)</string>
+    <string name="network_traffic_hidearrow">Скрыть стрелки</string>
+    <string name="network_traffic_hidearrow_summary">Скрыть стрелки индикатора сетевого трафика</string>
 	
-    <string name="use_bottom_gesture_title">Swipe up gestures</string>
-    <string name="use_bottom_gesture_summary">Must hide navbar. Swipe up from left/right is back. Swipe up center is home. Swipe up and hold is recents</string>
+    <string name="use_bottom_gesture_title">Жесты пролистывания</string>
+    <string name="use_bottom_gesture_summary">Необходимо скрыть навигацию. Проведите по экрану слева направо. Проведите вверх по центру от кнопки Home. Проведите пальцем вверх и удерживайте нажатой кнопку</string>
 
     <!-- Quick Settings brightness slider -->
-    <string name="qs_brightness_position_bottom_title">Brightness slider on bottom</string>
-    <string name="qs_brightness_position_bottom_summary">Show a brightness slider on bottom quick settings</string>
+    <string name="qs_brightness_position_bottom_title">Ползунок яркости внизу</string>
+    <string name="qs_brightness_position_bottom_summary">Показать слайдер яркости в нижней части экрана</string>
 
-    <string name="qs_tile_title_visibility_title">Tile title</string> 
-    <string name="qs_tile_title_visibility_summary">Display title below each tile</string> 
+    <string name="qs_tile_title_visibility_title">Название плитки</string> 
+    <string name="qs_tile_title_visibility_summary">Отображать заголовок под каждой плиткой</string> 
 
-    <string name="gesture_preference_aosp">System Gestures</string>
-    <string name="gesture_preference_aosp_summary">Access the device specific system gestures</string>
+    <string name="gesture_preference_aosp">Жесты системы</string>
+    <string name="gesture_preference_aosp_summary">Доступ к настройкам жестов системы</string>
 	
     <!-- Statusbar Clock -->
-    <string name="status_bar_clock_title">Clock settings</string>
-    <string name="status_bar_clock_summary">Customize clock and date in statusbar</string>
-    <string name="status_bar_clock_show">Show clock and date</string>
-    <string name="status_bar_clock_style_title">Clock style</string>
-    <string name="status_bar_clock_style_right">Right</string>
-    <string name="status_bar_clock_style_center">Center</string>
-    <string name="status_bar_clock_style_left">Left</string>
-    <string name="status_bar_am_pm_title">AM/PM style</string>
-    <string name="status_bar_am_pm_info">24-hour clock is enabled</string>
-    <string name="status_bar_am_pm_normal">Normal</string>
-    <string name="status_bar_am_pm_small">Small</string>
-    <string name="status_bar_am_pm_hidden">Hidden (default)</string>
-    <string name="clock_seconds_display">Show seconds</string>
-    <string name="clock_date_display">Date</string>
-    <string name="clock_date_display_summary">Display custom date before the clock</string>
-    <string name="clock_date_display_none">Don\'t show</string>
-    <string name="clock_date_display_small">Small font size</string>
-    <string name="clock_date_display_normal">Normal font size</string>
-    <string name="clock_date_style">Date style</string>
-    <string name="clock_date_style_normal">Normal</string>
-    <string name="clock_date_style_lowercase">Lowercase</string>
-    <string name="clock_date_style_uppercase">Uppercase</string>
-    <string name="clock_date_format_custom">Custom java format</string>
-    <string name="clock_date_format">Date format</string>
+    <string name="status_bar_clock_title">Настройки часов</string>
+    <string name="status_bar_clock_summary">Настроить часы и дату в строке состояния</string>
+    <string name="status_bar_clock_show">Показать часы и дату</string>
+    <string name="status_bar_clock_style_title">Стиль часов</string>
+    <string name="status_bar_clock_style_right">Справа</string>
+    <string name="status_bar_clock_style_center">Центр</string>
+    <string name="status_bar_clock_style_left">Слева</string>
+    <string name="status_bar_am_pm_title">AM/PM стиль</string>
+    <string name="status_bar_am_pm_info">24-часовой режим включен</string>
+    <string name="status_bar_am_pm_normal">Нормальный</string>
+    <string name="status_bar_am_pm_small">Мелкий</string>
+    <string name="status_bar_am_pm_hidden">Скрытый (по умолчанию)</string>
+    <string name="clock_seconds_display">Показывать секунды</string>
+    <string name="clock_date_display">Дата</string>
+    <string name="clock_date_display_summary">Показывать пользовательскую дату перед часами</string>
+    <string name="clock_date_display_none">Не показывать</string>
+    <string name="clock_date_display_small">Маленький размер шрифта</string>
+    <string name="clock_date_display_normal">Нормальный размер шрифта</string>
+    <string name="clock_date_style">Стиль даты</string>
+    <string name="clock_date_style_normal">Нормальный</string>
+    <string name="clock_date_style_lowercase">Строчные</string>
+    <string name="clock_date_style_uppercase">Верхний регистр</string>
+    <string name="clock_date_format_custom">Пользовательский формат</string>
+    <string name="clock_date_format">Формат даты</string>
     <string name="clock_date_format_summary">%1$s</string>
-    <string name="clock_date_string_edittext_title">Must be in DateFormat eg. MM/dd/yy</string>
-    <string name="clock_date_string_edittext_summary">Enter string</string>
-    <string name="date_cat">Date</string>
-    <string name="clock_cat">Clock</string>
-    <string name="status_bar_clock_font_style_title">Font style</string>
+    <string name="clock_date_string_edittext_title">Должно быть в формате даты, например. ММ / дд / гг</string>
+    <string name="clock_date_string_edittext_summary">Введите строку</string>
+    <string name="date_cat">Дата</string>
+    <string name="clock_cat">Часы</string>
+    <string name="status_bar_clock_font_style_title">Стиль шрифта</string>
     <string name="status_bar_clock_font_style_summary">%1$s</string>
-    <string name="status_bar_clock_font_size_title">Font size</string>
-    <string name="clock_date_right">Right of time</string>
-    <string name="clock_date_left">Left of time</string>
-    <string name="clock_date_position">Date position</string>
+    <string name="status_bar_clock_font_size_title">Размер шрифта</string>
+    <string name="clock_date_right">Справа от часов</string>
+    <string name="clock_date_left">Слева от часов</string>
+    <string name="clock_date_position">Разположение даты</string>
 
     <!-- QS footer warnings -->
-    <string name="qs_footer_warnings_title">QS footer warnings</string>
-    <string name="qs_footer_warnings_summary">Отобразите предупреждение внизу панели QS, когда сеть контролируется внешними приложениями или vpn</string>
+    <string name="qs_footer_warnings_title">Предупреждения нижнего колонтитула QS</string>
+    <string name="qs_footer_warnings_summary">Отображение предупреждений внизу панели QS, когда сеть контролируется внешними приложениями или vpn</string>
 
-    <string name="hardware_keys_power_category">Power Button</string>
-    <string name="torch_long_press_power_gesture_title">Screen off power button torch</string>
-    <string name="torch_long_press_power_gesture_desc">Long press power button while the screen is off to turn on the flashlight</string>
-    <string name="torch_long_press_power_timeout_title">Automatically turn torch off</string>
-    <string name="torch_long_press_power_timeout_never">Never</string>
-    <string name="torch_long_press_power_timeout_1min">1 minute</string>
-    <string name="torch_long_press_power_timeout_2min">2 minutes</string>
-    <string name="torch_long_press_power_timeout_5min">5 minutes</string>
-    <string name="torch_long_press_power_timeout_10min">10 minutes</string>
+    <string name="hardware_keys_power_category">Кнопка питания</string>
+    <string name="torch_long_press_power_gesture_title">Отключить экран кнопкой питание</string>
+    <string name="torch_long_press_power_gesture_desc">Длительное нажатие кнопки питания, когда экран выключен, чтобы включить фонарик</string>
+    <string name="torch_long_press_power_timeout_title">Автоматически выключать через</string>
+    <string name="torch_long_press_power_timeout_never">Никогда</string>
+    <string name="torch_long_press_power_timeout_1min">1 минуту</string>
+    <string name="torch_long_press_power_timeout_2min">2 минуты</string>
+    <string name="torch_long_press_power_timeout_5min">5 минут</string>
+    <string name="torch_long_press_power_timeout_10min">10 минут</string>
 
     <!-- MediaScanner behavior on boot --> 
     <string name="media_scanner_on_boot_title">MediaScanner behavior on boot</string> 
