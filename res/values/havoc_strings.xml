@@ -690,37 +690,36 @@
     <string name="torch_long_press_power_timeout_10min">10 минут</string>
 
     <!-- MediaScanner behavior on boot --> 
-    <string name="media_scanner_on_boot_title">MediaScanner behavior on boot</string> 
-    <string name="media_scanner_on_boot_enabled">Scan media</string> 
-    <string name="media_scanner_on_boot_ask">Ask to scan (notification)</string> 
-    <string name="media_scanner_on_boot_disabled">Do not scan media</string>	
+    <string name="media_scanner_on_boot_title">Поведение медиа сканера при загрузке</string> 
+    <string name="media_scanner_on_boot_enabled">Сканировать медиа</string> 
+    <string name="media_scanner_on_boot_ask">Запрос сканирования (уведомление)</string> 
+    <string name="media_scanner_on_boot_disabled">Не сканировать медиа</string>	
 	
     <!-- Custom carrier label and position -->
-    <string name="carrier_label_category_title">Carrier Label</string>
-    <string name="carrier_label_category_summary">Customize statusbar carrier label</string>
-    <string name="carrier_label_settings_title">Carrier Label</string>
-    <string name="carrier_label_settings_summary">Customize the carrier label</string>
-    <string name="custom_carrier_label_title">Custom carrier label</string>
-    <string name="custom_carrier_label_explain">Please enter a new label. Leave blank to revert to stock label.</string>
-    <string name="custom_carrier_label_notset">Custom label currently not set</string>
-    <string name="show_carrier_title">Carrier label</string>
-    <string name="show_carrier_disabled">Disabled</string>
-    <string name="show_carrier_keyguard">Lockscreen only</string>
-    <string name="show_carrier_statusbar">Statusbar only</string>
-    <string name="show_carrier_enabled">Lockscreen &amp; statusbar</string>
-    <string name="status_bar_carrier_size">Carrier label size</string>
-    <string name="status_bar_carrier_font_style_title">Carrier label font</string>
+    <string name="carrier_label_category_title">Метка носителя</string>
+    <string name="carrier_label_category_summary">Настройка панели состояния метки носителя</string>
+    <string name="carrier_label_settings_title">Метка носителя</string>
+    <string name="carrier_label_settings_summary">Настроить ярлык носителя</string>
+    <string name="custom_carrier_label_title">Пользовательская метка носителя</string>
+    <string name="custom_carrier_label_explain">Введите новый ярлык. Оставьте поле пустым, чтобы вернуться к дефолтному названию.</string>
+    <string name="custom_carrier_label_notset">Пользовательская метка не установлена</string>
+    <string name="show_carrier_title">Носитель</string>
+    <string name="show_carrier_disabled">Отключено</string>
+    <string name="show_carrier_keyguard">Только на экране блокировки</string>
+    <string name="show_carrier_statusbar">Только на панеле состояния</string>
+    <string name="show_carrier_enabled">Экран блокировки &amp; статус бар</string>
+    <string name="status_bar_carrier_size">Размер метки</string>
+    <string name="status_bar_carrier_font_style_title">Шрифт метки</string>
 
     <!-- Screen Stabilization -->
-    <string name="screen_stabilization_title">Screen Stabilization</string>
-    <string name="screen_stabilization_enable">Enable Screen Stabilization</string>
-    <string name="screen_stabilization_enable_summary">Leave the below values as is if you don\'t understand what they mean.</string>
-    <string name="stabilization_velocity_friction_title">Velocity friction</string>
-    <string name="stabilization_position_friction_title">Position friction</string>
-    <string name="stabilization_velocity_amplitude_title">Velocity amplitude</string>
+    <string name="screen_stabilization_title">Стабилизация экрана</string>
+    <string name="screen_stabilization_enable">Включить стабилизацию экрана</string>
+    <string name="screen_stabilization_enable_summary">Оставьте значения ниже, как есть, если вы не понимаете, что они означают.</string>
+    <string name="stabilization_velocity_friction_title">Величина тряски</string>
+    <string name="stabilization_position_friction_title">Позиция</string>
+    <string name="stabilization_velocity_amplitude_title">Амплитуда скорости</string>
 
     <!-- Lockscreen visualizer -->
-    <string name="lockscreen_visualizer_category">Visualizer</string>
     <string name="lockscreen_visualizer_enable">Enable lockscreen visualizer</string>
     <string name="lockscreen_visualizer_enable_summary">Show visualizer on lockscreen when music is playing</string>
     <string name="lockscreen_visualizer_enable_custom">Use custom color</string>
