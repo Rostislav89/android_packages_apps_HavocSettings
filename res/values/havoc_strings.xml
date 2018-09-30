@@ -720,311 +720,312 @@
     <string name="stabilization_velocity_amplitude_title">Амплитуда скорости</string>
 
     <!-- Lockscreen visualizer -->
-    <string name="lockscreen_visualizer_enable">Enable lockscreen visualizer</string>
-    <string name="lockscreen_visualizer_enable_summary">Show visualizer on lockscreen when music is playing</string>
-    <string name="lockscreen_visualizer_enable_custom">Use custom color</string>
-    <string name="lockscreen_visualizer_enable_custom_summary">Use a preset color instead of the generated color</string>
-    <string name="lockscreen_visualizer_custom_color">Visualizer Color</string>
+    <string name="lockscreen_visualizer_category">Визуализация</string>
+    <string name="lockscreen_visualizer_enable">Включить визуализацию на заблокировано экране</string>
+    <string name="lockscreen_visualizer_enable_summary">Показывать визуализацию на заблокированном экране при воспроизведении музыки</string>
+    <string name="lockscreen_visualizer_enable_custom">Использовать собственный цвет</string>
+    <string name="lockscreen_visualizer_enable_custom_summary">Используйте заданный цвет вместо сгенерированного цвета</string>
+    <string name="lockscreen_visualizer_custom_color">Цвет визуализации</string>
 
     <!-- The volume key answer -->
-    <string name="volume_answer_call_title">Volume keys answer</string>
-    <string name="volume_answer_call_summary">Answer the call when volume keys pressed</string>
+    <string name="volume_answer_call_title">Ответы клавишою громкости</string>
+    <string name="volume_answer_call_summary">Ответ на вызов при нажатии клавиш регулировки громкости</string>
 	
     <!-- Launch music player when headset is connected -->
-    <string name="headset_connect_player_title">Launch music app</string>
-    <string name="headset_connect_player_summary">Launch the default music app when headset is connected</string>
+    <string name="headset_connect_player_title">Запустить музыкальное приложение</string>
+    <string name="headset_connect_player_summary">Запуск музыкального приложения по умолчанию при подключении гарнитуры</string>
 	
     <!-- Quick settings tiles columns and rows config --> 
-    <string name="qs_rows_portrait_title">Rows (Portrait)</string>
-    <string name="qs_rows_landscape_title">Rows (Landscape)</string>
-    <string name="qs_columns_portrait_title">Columns (Portrait)</string>
-    <string name="qs_columns_landscape_title">Columns (Landscape)</string>
+    <string name="qs_rows_portrait_title">Строки (портрет)</string>
+    <string name="qs_rows_landscape_title">Строки (Пейзаж)</string>
+    <string name="qs_columns_portrait_title">Столбцы (портрет)</string>
+    <string name="qs_columns_landscape_title">Столбцы (Пейзаж)</string>
 
-    <string name="brightness_icon_title">Auto Brightness Icon</string>
-    <string name="brightness_icon_summary">Show a brightness icon to the left of the brighness slider to adjust auto-brightness</string>
+    <string name="brightness_icon_title">Иконка Авто яркости</string>
+    <string name="brightness_icon_summary">Показывать значок яркости слева от слайдера яркости, чтобы настроить автоматическую яркость</string>
 	
     <!-- Weather - OmniJaws Settings -->
-    <string name="weather_config_title">Weather service</string>
-    <string name="weather_config_summary">System service settings</string>
-    <string name="header_weather_title">Header view weather</string>
-    <string name="header_weather_summary">Enable notification panel header weather display</string>
-    <string name="weather_icon_pack_title">Condition icon pack</string>
-    <string name="weather_icon_pack_note">Note\u003a you can install new icon packs from play store by searching for \"Chronus icons\"</string>
+    <string name="weather_config_title">Службы погоды</string>
+    <string name="weather_config_summary">Настройки системного обслуживания</string>
+    <string name="header_weather_title">Просмотр заголовка погоды</string>
+    <string name="header_weather_summary">Включить отображение заголовка погоды на панели уведомлений</string>
+    <string name="weather_icon_pack_title">Значок состояния</string>
+    <string name="weather_icon_pack_note">Примечание\u003a вы можете установить новые пакеты значков из магазина, выполнив поиск \"Chronus icons\"</string>
 
     <!-- Lockscreen weather settings -->
-    <string name="lockscreen_weather_title">Lockscreen Weather</string>
-    <string name="lockscreen_weather_summary">Show weather info on lockscreen</string>
-    <string name="lockscreen_items_aod_info_title">This visibility configuration also applies to the ambient display</string>
+    <string name="lockscreen_weather_title">Погода на экране блокировки</string>
+    <string name="lockscreen_weather_summary">Показать информацию о погоде на экране блокировки</string>
+    <string name="lockscreen_items_aod_info_title">Эта конфигурация отображения также применима к внешнему дисплею</string>
 
     <!-- Battery Bar -->
-    <string name="battery_bar_title">Battery Bar</string>
-    <string name="battery_bar_summary">Decorate battery bar</string>
-    <string name="battery_bar_location">Battery bar location</string>
-    <string name="battery_bar_color">Battery bar color</string>
-    <string name="battery_bar_charging_color">Battery bar charging color</string>
-    <string name="battery_bar_battery_low_color">Battery bar low battery color</string>
-    <string name="battery_bar_style_title">Battery bar style</string>
-    <string name="battery_bar_thickness_title">Battery bar thickness</string>
-    <string name="battery_bar_animate_title">Charging animation</string>
-    <string name="battery_bar_animate_summary">The charging animation may result in a poor user experience. Enable at your own discretion.</string>
-    <string name="battery_bar_hide">Hide</string>
-    <string name="battery_bar_statusbar">Statusbar</string>
-    <string name="battery_bar_topnav">Top of navbar</string>
-    <string name="battery_bar_bottomnav">Bottom of navbar</string>
-    <string name="battery_bar_reg">Regular</string>
-    <string name="battery_bar_center">Center-mirrored</string>
-    <string name="battery_bar_reversed">Reversed</string>
-    <string name="battery_bar_use_gradient_color">Use gradient color</string>
-    <string name="battery_bar_gradient_color_summary">Use gradient color as a scale for the battery level</string>
-    <string name="battery_bar_high_color">High level color"</string>
-    <string name="battery_bar_low_color">Low level color"</string>
+    <string name="battery_bar_title">Батарея</string>
+    <string name="battery_bar_summary">Украсить плитку батареи</string>
+    <string name="battery_bar_location">Расположение плитки батареи</string>
+    <string name="battery_bar_color">Цвет батареи</string>
+    <string name="battery_bar_charging_color">Цвет зарядки батареи</string>
+    <string name="battery_bar_battery_low_color">Низкий уровень заряда батареи</string>
+    <string name="battery_bar_style_title">Стиль батареи</string>
+    <string name="battery_bar_thickness_title">Толщина батареи</string>
+    <string name="battery_bar_animate_title">Анимация зарядки</string>
+    <string name="battery_bar_animate_summary">Анимация зарядки может привести к некоректной работе. Включите по своему усмотрение.</string>
+    <string name="battery_bar_hide">Скрыть</string>
+    <string name="battery_bar_statusbar">Строка состояния</string>
+    <string name="battery_bar_topnav">Верхняя панель навигации</string>
+    <string name="battery_bar_bottomnav">Нижняя часть навигационной панели</string>
+    <string name="battery_bar_reg">Нормальный</string>
+    <string name="battery_bar_center">Центр-зеркальные</string>
+    <string name="battery_bar_reversed">Реверс</string>
+    <string name="battery_bar_use_gradient_color">Использовать цвет градиента</string>
+    <string name="battery_bar_gradient_color_summary">Используйте градиентный цвет как шкалу для уровня заряда батареи</string>
+    <string name="battery_bar_high_color">Высокий уровень цвета"</string>
+    <string name="battery_bar_low_color">Низкий уровень цвета"</string>
 
     <!-- Screenshot -->
-    <string name="screenshot_type_title">Screenshot type</string>
-    <string name="screenshot_type_fullscreen">Fullscreen screenshots</string>
-    <string name="screenshot_type_partial">Partial screenshots</string>
+    <string name="screenshot_type_title">Тип скриншота</string>
+    <string name="screenshot_type_fullscreen">Полноэкранные скриншоты</string>
+    <string name="screenshot_type_partial">Частичные скриншоты</string>
 
     <!-- Lock Clock Fonts -->
-    <string name="lock_clock_font_title">Clock font options</string>
-    <string name="lock_clock_font_summary">Change the default font of the lockscreen clock widget</string>
-    <string name="lock_clock_font_dialog_title">Select lock clock font</string>
-    <string name="lock_clock_font_stock">Normal (Default)</string>
-    <string name="lock_clock_font_bold">Bold</string>
-    <string name="lock_clock_font_italic">Italic</string>
-    <string name="lock_clock_font_bold_italic">Bold Italic</string>
-    <string name="lock_clock_font_light_italic">Light Italic</string>
-    <string name="lock_clock_font_thin_italic">Thin Italic</string>
-    <string name="lock_clock_font_light">Light</string>
-    <string name="lock_clock_font_thin">Thin</string>
-    <string name="lock_clock_font_condensed_normal">Condensed</string>
-    <string name="lock_clock_font_condensed_italic">Condensed Italic</string>
-    <string name="lock_clock_font_condensed_bold">Condensed Bold</string>
-    <string name="lock_clock_font_condensed_bold_italic">Condensed Bold Italic</string>
-    <string name="lock_clock_font_condensed_light">Condensed Light</string>
-    <string name="lock_clock_font_condensed_light_italic">Condensed Light Italic</string> 
-    <string name="lock_clock_font_medium_normal">Medium</string>
-    <string name="lock_clock_font_medium_italic">Medium Italic</string>
-    <string name="lock_clock_font_black">Black</string>
-    <string name="lock_clock_font_black_italic">Black Italic</string> 
+    <string name="lock_clock_font_title">Параметры шрифта часов</string>
+    <string name="lock_clock_font_summary">Изменение шрифта по умолчанию виджета чассов на экране блокировки</string>
+    <string name="lock_clock_font_dialog_title">Выберите шрифт часов</string>
+    <string name="lock_clock_font_stock">Обычный (по умолчанию)</string>
+    <string name="lock_clock_font_bold">Жирный</string>
+    <string name="lock_clock_font_italic">Курсив</string>
+    <string name="lock_clock_font_bold_italic">Жирный курсив</string>
+    <string name="lock_clock_font_light_italic">Светлый курсив</string>
+    <string name="lock_clock_font_thin_italic">Тонкий курсив</string>
+    <string name="lock_clock_font_light">Светлый</string>
+    <string name="lock_clock_font_thin">Тонкий</string>
+    <string name="lock_clock_font_condensed_normal">Сжатый</string>
+    <string name="lock_clock_font_condensed_italic">Сжатый курсив</string>
+    <string name="lock_clock_font_condensed_bold">Сжатый жирный</string>
+    <string name="lock_clock_font_condensed_bold_italic">Сжатый жирный курсив</string>
+    <string name="lock_clock_font_condensed_light">Сжатый светлый</string>
+    <string name="lock_clock_font_condensed_light_italic">Сжатый светлый курсив</string> 
+    <string name="lock_clock_font_medium_normal">Средний</string>
+    <string name="lock_clock_font_medium_italic">Средний курсив</string>
+    <string name="lock_clock_font_black">Черный</string>
+    <string name="lock_clock_font_black_italic">Черный курсив</string> 
 	
-    <string name="use_old_mobiletype_title">Use old mobile type style</string>
-    <string name="use_old_mobiletype_summary">Merge signal and type icons</string>
+    <string name="use_old_mobiletype_title">Использовать старый стиль</string>
+    <string name="use_old_mobiletype_summary">Значки сигнала и типа иконок</string>
 
     <!-- Burn-in Protection -->
-    <string name="navigation_burnin_category">Burn-in Protection</string>
-    <string name="burn_in_protection_title">Burn-in Protection</string>
-    <string name="burn_in_protection_summary">Shift navbar and statusbar icons to prevent burn-in</string>
-    <string name="burn_in_protection_interval_title">Shift interval</string>
+    <string name="navigation_burnin_category">Защита от выгорания</string>
+    <string name="burn_in_protection_title">Защита от выгорания</string>
+    <string name="burn_in_protection_summary">Сдвинуть значки навигационной панели и значка состояния, чтобы предотвратить выгорание</string>
+    <string name="burn_in_protection_interval_title">Интервал переключения</string>
 
     <!-- Hide statusbar on lockscreen -->
-    <string name="lockscreen_hide_status_bar_title">Disable Statusbar</string>
-    <string name="lockscreen_hide_status_bar_summary">When enabled the statusbar will be hidden on lockscreen</string>
+    <string name="lockscreen_hide_status_bar_title">Отключить панель состояния</string>
+    <string name="lockscreen_hide_status_bar_summary">Когда включено, панель состояния будет скрыта на заблокированном экране</string>
 	
     <!-- Doze settings editor --> 
-    <string name="advanced_doze_settings">Advanced Doze settings</string>
-    <string name="doze_settings_title">Doze settings</string> 
-    <string name="doze_settings_summary">Edit doze config settings</string> 
-    <string name="action_restoredefault">Restore defaults</string> 
-    <string name="action_profile">Profiles</string> 
-    <string name="action_save_as_profile">Save as profile</string> 
-    <string name="delete_profile">Delete profile</string> 
-    <string name="profile_name">Name</string> 
-    <string name="string_seconds">seconds</string> 
-    <string name="string_default">Default</string> 
-    <string name="action_filter">Filter</string> 
-    <string name="doze_settings_applied">Settings applied</string> 
+    <string name="advanced_doze_settings">Расширенные настройки сна (Doze)</string>
+    <string name="doze_settings_title">Настройки сна</string> 
+    <string name="doze_settings_summary">Изменить настройки конфигурации сна устройства</string> 
+    <string name="action_restoredefault">Восстановить значения по умолчанию</string> 
+    <string name="action_profile">Профили</string> 
+    <string name="action_save_as_profile">Сохранить как профиль</string> 
+    <string name="delete_profile">Удалить профиль</string> 
+    <string name="profile_name">Имя</string> 
+    <string name="string_seconds">секунд</string> 
+    <string name="string_default">По умолчанию</string> 
+    <string name="action_filter">Фильтр</string> 
+    <string name="doze_settings_applied">Применить настройки</string> 
  
-    <string name="DESC_INACTIVE_TIMEOUT">This is the time, after becoming inactive, at which we start looking at the motion sensor to determine if the device is being left alone. We don\'t do this immediately after going inactive just because we don\'t want to be continually running the significant motion sensor whenever the screen is off</string> 
-    <string name="DESC_SENSING_TIMEOUT">If we don\'t receive a callback from AnyMotion in this amount of time + locating_to, we will change from STATE_SENSING to STATE_INACTIVE, and any AnyMotion callbacks while not in STATE_SENSING will be ignored</string> 
-    <string name="DESC_LOCATING_TIMEOUT">This is how long we will wait to try to get a good location fix before going in to idle mode</string> 
-    <string name="DESC_LOCATION_ACCURACY">The desired maximum accuracy (in meters) we consider the location to be good enough to go on to idle. We will be trying to get an accuracy fix at least this good or until locating_to expires</string> 
-    <string name="DESC_MOTION_INACTIVE_TIMEOUT">This is the time, after seeing motion, that we wait after becoming inactive from that until we start looking for motion again</string> 
-    <string name="DESC_IDLE_AFTER_INACTIVE_TIMEOUT">This is the time, after the inactive timeout elapses, that we will wait looking for significant motion until we truly consider the device to be idle</string> 
-    <string name="DESC_IDLE_PENDING_TIMEOUT">This is the initial time, after being idle, that we will allow ourself to be back in the IDLE_PENDING state allowing the system to run normally until we return to idle</string> 
-    <string name="DESC_MAX_IDLE_PENDING_TIMEOUT">Maximum pending idle timeout (time spent running) we will be allowed to use</string> 
-    <string name="DESC_IDLE_PENDING_FACTOR">Scaling factor to apply to current pending idle timeout each time we cycle through that state</string> 
-    <string name="DESC_IDLE_TIMEOUT">This is the initial time that we want to sit in the idle state before waking up again to return to pending idle and allowing normal work to run</string> 
-    <string name="DESC_MAX_IDLE_TIMEOUT">Maximum idle duration we will be allowed to use</string> 
-    <string name="DESC_IDLE_FACTOR">Scaling factor to apply to current idle timeout each time we cycle through that state</string> 
-    <string name="DESC_MIN_TIME_TO_ALARM">This is the minimum time we will allow until the next upcoming alarm for us to actually go in to idle mode</string> 
-    <string name="DESC_MAX_TEMP_APP_WHITELIST_DURATION">Max amount of time to temporarily whitelist an app when it receives a high tickle</string> 
-    <string name="DESC_MMS_TEMP_APP_WHITELIST_DURATION">Amount of time we would like to whitelist an app that is receiving an MMS</string> 
-    <string name="DESC_SMS_TEMP_APP_WHITELIST_DURATION">Amount of time we would like to whitelist an app that is receiving an SMS</string> 
-    <string name="DESC_LIGHT_IDLE_AFTER_INACTIVE_TIMEOUT">This is the time, after becoming inactive, that we go in to the first light-weight idle mode</string> 
-    <string name="DESC_LIGHT_PRE_IDLE_TIMEOUT">This is amount of time we will wait from the point where we decide we would like to go idle until we actually do, while waiting for jobs and other current activity to finish</string> 
-    <string name="DESC_LIGHT_IDLE_TIMEOUT">This is the initial time that we will run in idle maintenance mode</string> 
-    <string name="DESC_LIGHT_IDLE_FACTOR">Scaling factor to apply to the light idle mode time each time we complete a cycle</string> 
-    <string name="DESC_LIGHT_MAX_IDLE_TIMEOUT">This is the maximum time we will run in idle maintenence mode</string> 
-    <string name="DESC_LIGHT_IDLE_MAINTENANCE_MIN_BUDGET">This is the minimum amount of time we want to make available for maintenance mode when lightly idling</string> 
-    <string name="DESC_LIGHT_IDLE_MAINTENANCE_MAX_BUDGET">This is the maximum amount of time we want to make available for maintenance mode when lightly idling</string> 
-    <string name="DESC_MIN_LIGHT_MAINTENANCE_TIME">This is the minimum amount of time that we will stay in maintenance mode after a light doze</string> 
-    <string name="DESC_MIN_DEEP_MAINTENANCE_TIME">This is the minimum amount of time that we will stay in maintenance mode after a full doze</string> 
-    <string name="DESC_KEY_NOTIFICATION_WHITELIST_DURATION">Amount of time we would like to whitelist an app that is handling a notification</string> 
+    <string name="DESC_INACTIVE_TIMEOUT">Это время, после того, как оно становится неактивным, и мы начинаем смотреть на датчик движения, чтобы определить, осталось ли устройство в одиночку. Мы не сделаем это сразу после того, как вы неактивны, потому что мы не хотим постоянно работать с существенным датчиком движения всякий раз, когда экран выключен</string> 
+    <string name="DESC_SENSING_TIMEOUT">Если мы не получим обратный вызов от AnyMotion за это время + locating_to, мы изменим его с STATE_SENSING на STATE_INACTIVE, и любые обратные вызовы AnyMotion в то время как не в STATE_SENSING будут проигнорированы</string> 
+    <string name="DESC_LOCATING_TIMEOUT">Вот как долго мы будем ждать, чтобы попытаться получить хорошее исправление местоположения, прежде чем переходить в режим ожидания</string> 
+    <string name="DESC_LOCATION_ACCURACY">Желаемая максимальная точность (в метрах) мы считаем, что местоположение достаточно хорошее, чтобы перейти в режим ожидания. Мы попытаемся получить исправление точности, по крайней мере, этого хорошего или до тех пор, пока locating_to не истечет</string> 
+    <string name="DESC_MOTION_INACTIVE_TIMEOUT">Это время, увидев движение, которое мы ждем после того, как оно становится неактивным, пока мы не начнем искать движение снова</string> 
+    <string name="DESC_IDLE_AFTER_INACTIVE_TIMEOUT">Это время, после истечения неактивного тайм-аута, что мы будем ожидать поиска значительного движения, пока мы действительно не рассмотрим, что устройство не работает</string> 
+    <string name="DESC_IDLE_PENDING_TIMEOUT">Это начальное время после простоя, что мы разрешим себе вернуться в состояние IDLE_PENDING, позволяющее системе нормально работать, пока мы не вернемся в режим ожидания</string> 
+    <string name="DESC_MAX_IDLE_PENDING_TIMEOUT">Максимальный ожидаемый тайм-аут ожидания (время, затрачиваемое на прогон), нам будет разрешено использовать</string> 
+    <string name="DESC_IDLE_PENDING_FACTOR">Масштабирующий коэффициент для применения к текущему ожидающему таймауту простоя каждый раз, когда мы перебираем это состояние</string> 
+    <string name="DESC_IDLE_TIMEOUT">Это начальное время, когда мы хотим сидеть в состоянии ожидания, прежде чем снова проснуться, чтобы вернуться в ожидающий простоя и разрешить обычную работу</string> 
+    <string name="DESC_MAX_IDLE_TIMEOUT">Максимальная продолжительность простоя, которую мы будем использовать</string> 
+    <string name="DESC_IDLE_FACTOR">Масштабирующий коэффициент для применения к текущему тайм-ауту простоя каждый раз, когда мы перебираем это состояние</string> 
+    <string name="DESC_MIN_TIME_TO_ALARM">Это минимальное время, которое мы разрешаем до следующего предстоящего сигнала тревоги, чтобы мы действительно перешли в режим ожидания</string> 
+    <string name="DESC_MAX_TEMP_APP_WHITELIST_DURATION">Максимальное количество времени для временного белого списка приложения, когда он получает высокий щекоток</string> 
+    <string name="DESC_MMS_TEMP_APP_WHITELIST_DURATION">Количество времени, которое мы хотели бы добавить в белый список приложение, получающее MMS</string> 
+    <string name="DESC_SMS_TEMP_APP_WHITELIST_DURATION">Количество времени, которое мы хотели бы добавить в белый список приложение, получающее SMS-сообщение</string> 
+    <string name="DESC_LIGHT_IDLE_AFTER_INACTIVE_TIMEOUT">Это время, после того, как оно стало неактивным, и мы входим в первый легкий режим ожидания</string> 
+    <string name="DESC_LIGHT_PRE_IDLE_TIMEOUT">Это количество времени, которое мы будем ждать с того момента, когда мы решаем, что мы хотели бы простаивать до тех пор, пока мы на самом деле не сделаем этого, пока ожидаем завершения работы и другой текущей деятельности</string> 
+    <string name="DESC_LIGHT_IDLE_TIMEOUT">Это начальное время, которое мы будем запускать в режиме ожидания</string> 
+    <string name="DESC_LIGHT_IDLE_FACTOR">Масштабирующий коэффициент для применения к режиму светлого режима ожидания каждый раз, когда мы завершаем цикл</string> 
+    <string name="DESC_LIGHT_MAX_IDLE_TIMEOUT">Это максимальное время, которое мы будем запускать в режиме ожидания в режиме ожидания</string> 
+    <string name="DESC_LIGHT_IDLE_MAINTENANCE_MIN_BUDGET">Это минимальное количество времени, которое мы хотим сделать доступным для режима обслуживания при легком холостом ходу</string> 
+    <string name="DESC_LIGHT_IDLE_MAINTENANCE_MAX_BUDGET">Это максимальное количество времени, которое мы хотим сделать доступным для режима обслуживания при легком холостом ходу</string> 
+    <string name="DESC_MIN_LIGHT_MAINTENANCE_TIME">Это минимальное время, в течение которого мы останемся в режиме обслуживания после легкого сна</string> 
+    <string name="DESC_MIN_DEEP_MAINTENANCE_TIME">Это минимальное время, в течение которого мы останемся в режиме обслуживания после полного сна</string> 
+    <string name="DESC_KEY_NOTIFICATION_WHITELIST_DURATION">Количество времени, которое мы хотели бы добавить в белый список приложение, которое обрабатывает уведомление</string> 
  
-    <string name="SHORT_INACTIVE_TIMEOUT">Inactive timeout</string> 
-    <string name="SHORT_SENSING_TIMEOUT">Sensing timeout</string> 
-    <string name="SHORT_LOCATING_TIMEOUT">Locating timeout</string> 
-    <string name="SHORT_LOCATION_ACCURACY">Location accuracy</string> 
-    <string name="SHORT_MOTION_INACTIVE_TIMEOUT">Motion inactive timeout</string> 
-    <string name="SHORT_IDLE_AFTER_INACTIVE_TIMEOUT">Idle after inactive timeout</string> 
-    <string name="SHORT_IDLE_PENDING_TIMEOUT">Idle pending timeout</string> 
-    <string name="SHORT_MAX_IDLE_PENDING_TIMEOUT">Max idle pending timeout</string> 
-    <string name="SHORT_IDLE_PENDING_FACTOR">Idle pending factor</string> 
-    <string name="SHORT_IDLE_TIMEOUT">Idle timeout</string> 
-    <string name="SHORT_MAX_IDLE_TIMEOUT">Max idle timeout</string> 
-    <string name="SHORT_IDLE_FACTOR">Idle factor</string> 
-    <string name="SHORT_MIN_TIME_TO_ALARM">Min time to alarm</string> 
-    <string name="SHORT_MAX_TEMP_APP_WHITELIST_DURATION">Max temp app whitelist duration</string> 
-    <string name="SHORT_MMS_TEMP_APP_WHITELIST_DURATION">Max MMS app whitelist duration</string> 
-    <string name="SHORT_SMS_TEMP_APP_WHITELIST_DURATION">Max SMS app whitelist duration</string> 
-    <string name="SHORT_LIGHT_IDLE_AFTER_INACTIVE_TIMEOUT">Light idle after inactive timeout</string> 
-    <string name="SHORT_LIGHT_PRE_IDLE_TIMEOUT">Light pre idle timeout</string> 
-    <string name="SHORT_LIGHT_IDLE_TIMEOUT">Light idle timeout</string> 
-    <string name="SHORT_LIGHT_IDLE_FACTOR">Light idle factor</string> 
-    <string name="SHORT_LIGHT_MAX_IDLE_TIMEOUT">Max light idle timeout</string> 
-    <string name="SHORT_LIGHT_IDLE_MAINTENANCE_MIN_BUDGET">Maintenance mode light idle min timeout</string> 
-    <string name="SHORT_LIGHT_IDLE_MAINTENANCE_MAX_BUDGET">Maintenance mode light idle max timeout</string> 
-    <string name="SHORT_MIN_LIGHT_MAINTENANCE_TIME">Maintenance mode light doze min timeout</string> 
-    <string name="SHORT_MIN_DEEP_MAINTENANCE_TIME">Maintenance mode full doze min timeout</string> 
-    <string name="SHORT_KEY_NOTIFICATION_WHITELIST_DURATION">Max notification whitelist duration</string> 
+    <string name="SHORT_INACTIVE_TIMEOUT">Неактивный тайм-аут</string> 
+    <string name="SHORT_SENSING_TIMEOUT">Тайм-аут срабатывания</string> 
+    <string name="SHORT_LOCATING_TIMEOUT">Локальный тайм-аут</string> 
+    <string name="SHORT_LOCATION_ACCURACY">Точность местоположения</string> 
+    <string name="SHORT_MOTION_INACTIVE_TIMEOUT">Неактивный таймаут движения</string> 
+    <string name="SHORT_IDLE_AFTER_INACTIVE_TIMEOUT">Бездействия после неактивного таймаута</string> 
+    <string name="SHORT_IDLE_PENDING_TIMEOUT">Задержка в ожидании тайм-аута</string> 
+    <string name="SHORT_MAX_IDLE_PENDING_TIMEOUT">Максимальное время задержки ожидания тайм-аута</string> 
+    <string name="SHORT_IDLE_PENDING_FACTOR">Фактор ожидания</string> 
+    <string name="SHORT_IDLE_TIMEOUT">Тайм-аут ожидания</string> 
+    <string name="SHORT_MAX_IDLE_TIMEOUT">Максимальный тайм-аут простоя</string> 
+    <string name="SHORT_IDLE_FACTOR">Фактор простоя</string> 
+    <string name="SHORT_MIN_TIME_TO_ALARM">Минимальное время до тревоги</string> 
+    <string name="SHORT_MAX_TEMP_APP_WHITELIST_DURATION">Продолжительность белой паузы в режиме</string> 
+    <string name="SHORT_MMS_TEMP_APP_WHITELIST_DURATION">Макс. длительность белого списка приложений</string> 
+    <string name="SHORT_SMS_TEMP_APP_WHITELIST_DURATION">Максимальная продолжительность белого списка для SMS-приложений</string> 
+    <string name="SHORT_LIGHT_IDLE_AFTER_INACTIVE_TIMEOUT">Легкий простой после неактивного таймаута</string> 
+    <string name="SHORT_LIGHT_PRE_IDLE_TIMEOUT">Легкий тайм-аут</string> 
+    <string name="SHORT_LIGHT_IDLE_TIMEOUT">Тайм-аут простоя</string> 
+    <string name="SHORT_LIGHT_IDLE_FACTOR">Легкий коэффициент простоя</string> 
+    <string name="SHORT_LIGHT_MAX_IDLE_TIMEOUT">Максимальный тайм-аут ожидания</string> 
+    <string name="SHORT_LIGHT_IDLE_MAINTENANCE_MIN_BUDGET">Тайм-аут режима ожидания</string> 
+    <string name="SHORT_LIGHT_IDLE_MAINTENANCE_MAX_BUDGET">Максимальный тайм-аут легкого режима ожидания</string> 
+    <string name="SHORT_MIN_LIGHT_MAINTENANCE_TIME">Режим ожидания легкого сна мин. тайм-аут</string> 
+    <string name="SHORT_MIN_DEEP_MAINTENANCE_TIME">Режим ожидания полного сна мин. тайм-аут</string> 
+    <string name="SHORT_KEY_NOTIFICATION_WHITELIST_DURATION">Максимальная длительность белого уведомления</string> 
  
     <!-- Time In State & CPU State --> 
-    <string name="state_time_mode">Awake</string> 
-    <string name="since_boot">Boot</string> 
-    <string name="since_charged">Charged</string> 
-    <string name="since_unplugged">Unplugged</string> 
-    <string name="since_reset">Reset</string> 
-    <string name="since_unplug">Unplug</string> 
-    <string name="other">Activity</string> 
-    <string name="kernel_wakelocks">Kernel wakelocks</string> 
-    <string name="partial_wakelocks">Partial wakelocks</string> 
-    <string name="app_wakelocks">App wakelocks</string> 
-    <string name="create_ref">Reset</string> 
-    <string name="spinner_period_title">Since</string> 
-    <string name="spinner_type_title">Show</string> 
-    <string name="screen_on_time">Screen on</string> 
-    <string name="awake_time">Awake</string> 
-    <string name="deep_sleep_time">Deep sleep</string> 
-    <string name="no_kernel_wakelock_file_found">No kernel wakelock stats file /proc/wakelocks or /sys/kernel/debug/wakeup_sources found.</string> 
-    <string name="more_line_text">more\u2026</string> 
-    <string name="state_core_mode">Cores</string> 
-    <string name="kernel_wakelock_time">Kernel wakelocks</string> 
-    <string name="user_wakelock_time">Partial wakelocks</string> 
-    <string name="battery_change">Battery change</string> 
-    <string name="spinner_state_time_title">Time</string> 
-    <string name="total_time">Total</string> 
-    <string name="wakelock_time">Wakelocks</string> 
-    <string name="copy_as_text">Copy as text</string> 
-    <string name="google_it">Google for it</string> 
-    <string name="app_details">App details</string> 
-    <string name="no_stat_because_reset_state">Press reset to start collecting time in state data</string> 
-    <string name="no_stat_because_reset_wakelock">Press reset to start collecting wakelock data</string> 
-    <string name="no_stat_because_plugged">Please unplug power to get wakelock data</string> 
-    <string name="no_states_file_found">No states file found. Are you sure your phone is 
-        compatible?\n\nIf you are running a custom ROM or kernel, try 
-        contacting its developer to inform him that the states file is not 
-        readable.</string> 
-    <string name="deep_sleep">"Deep Sleep"</string> 
-    <string name="mt_refresh">Refresh</string> 
-    <string name="mt_share">Share</string> 
-    <string name="mt_reset">Reset</string> 
-    <string name="time_in_state_title">Time in state</string> 
-    <string name="time_in_state_summary">Show CPU frequency statistics</string> 
+    <string name="state_time_mode">Пробуждения</string> 
+    <string name="since_boot">Загрузка</string> 
+    <string name="since_charged">Зарядка</string> 
+    <string name="since_unplugged">Отсоединение</string> 
+    <string name="since_reset">Перезагрузка</string> 
+    <string name="since_unplug">Отключение</string> 
+    <string name="other">Активность</string> 
+    <string name="kernel_wakelocks">Пробуждения ядра</string> 
+    <string name="partial_wakelocks">Частичные вакелоки</string> 
+    <string name="app_wakelocks">Пробуждение приложений</string> 
+    <string name="create_ref">Сброс</string> 
+    <string name="spinner_period_title">Со времени</string> 
+    <string name="spinner_type_title">Показать</string> 
+    <string name="screen_on_time">Экран включен</string> 
+    <string name="awake_time">Пробуждение</string> 
+    <string name="deep_sleep_time">Глубокий сон</string> 
+    <string name="no_kernel_wakelock_file_found">Нет файлов пробуждения ядра / proc / wakelocks или / sys / kernel / debug / wakeup_sources.</string> 
+    <string name="more_line_text">Больше\u2026</string> 
+    <string name="state_core_mode">Ядра</string> 
+    <string name="kernel_wakelock_time">Побуждение ядра</string> 
+    <string name="user_wakelock_time">Частичные пробуждения</string> 
+    <string name="battery_change">Изменение батареи</string> 
+    <string name="spinner_state_time_title">Время</string> 
+    <string name="total_time">Всего</string> 
+    <string name="wakelock_time">Пробуждение</string> 
+    <string name="copy_as_text">Скопировать как текст</string> 
+    <string name="google_it">Google для этого</string> 
+    <string name="app_details">Сведения о приложении</string> 
+    <string name="no_stat_because_reset_state">Нажмите кнопку сброса, чтобы начать сбор времени в данных состояния</string> 
+    <string name="no_stat_because_reset_wakelock">Нажмите «Сброс», чтобы начать собирать данные пробуждения</string> 
+    <string name="no_stat_because_plugged">Пожалуйста, отключите питание, чтобы получить данные пробуждения</string> 
+    <string name="no_states_file_found">Файл состояний не найден. Вы уверены, что ваш телефон 
+        совместим?\n\nЕсли вы используете пользовательский ПЗУ или ядро, попробуйте 
+        связавшись с разработчиком, чтобы сообщить ему, что файл состояний не 
+        читаемый.</string> 
+    <string name="deep_sleep">"Глубокий сон"</string> 
+    <string name="mt_refresh">Обновить</string> 
+    <string name="mt_share">Поделиться</string> 
+    <string name="mt_reset">Сброс</string> 
+    <string name="time_in_state_title">Время в состоянии</string> 
+    <string name="time_in_state_summary">Показать статистику частоты процессора</string> 
 
     <!-- Swap navigation keys -->
-    <string name="swap_navigation_keys_title">Swap keys</string>
-    <string name="swap_navigation_keys_title_summary">Swap back and recents hardware keys</string>
+    <string name="swap_navigation_keys_title">Swap кнопки</string>
+    <string name="swap_navigation_keys_title_summary">Переключить аппаратные кнопки назад и недавние</string>
 
     <!-- StatusBar weather settings -->
-    <string name="statusbar_weather_title">Statusbar Weather</string>
-    <string name="statusbar_weather_summary">Disabled</string>
-    <string name="statusbar_weather_dialog_title">Statusbar Weather</string>
-    <string name="status_bar_weather_hidden">Disabled</string>
-    <string name="status_bar_temperature_image_show_scale">Temp with image and scale</string>
-    <string name="status_bar_temperature_image_hide_scale">Temp with image</string>
-    <string name="status_bar_temperature_show_scale_hide_image">Temp with scale</string>
-    <string name="status_bar_temperature_hide_scale_hide_image">Temp</string>
-    <string name="status_bar_show_image">Image</string>
+    <string name="statusbar_weather_title">Погода в строке состояния</string>
+    <string name="statusbar_weather_summary">Отключено</string>
+    <string name="statusbar_weather_dialog_title">Погода в строке состояния</string>
+    <string name="status_bar_weather_hidden">Отключено</string>
+    <string name="status_bar_temperature_image_show_scale">Темп. с изображением и шкалой</string>
+    <string name="status_bar_temperature_image_hide_scale">Темп. с изображением</string>
+    <string name="status_bar_temperature_show_scale_hide_image">Темп. со шкалой</string>
+    <string name="status_bar_temperature_hide_scale_hide_image">Температура</string>
+    <string name="status_bar_show_image">Картинка</string>
 
     <!-- 4G icon -->
-    <string name="show_fourg_icon_title">4G icon</string>
-    <string name="show_fourg_icon_summary">Display 4G icon in signal icon instead LTE</string>
+    <string name="show_fourg_icon_title">4G иконка</string>
+    <string name="show_fourg_icon_summary">Отображать значок 4G в иконке сигнала вместо LTE</string>
 
     <!-- Data disabled icon -->
-    <string name="data_disabled_icon_title">Show data disabled icon</string>
-    <string name="data_disabled_icon_summary">Display the cross sign next to signal bar when data is disabled</string>
+    <string name="data_disabled_icon_title">Показать отключенный значок</string>
+    <string name="data_disabled_icon_summary">Показывать перекрестный знак рядом с сигнальной панелью, когда данные отключены</string>
 
     <!-- Pocket judge --> 
-    <string name="pocket_judge_title">Pocket detection</string> 
-    <string name="pocket_judge_summary">Block screen and button inputs when device is in pocket</string> 	
+    <string name="pocket_judge_title">Режым в кармане</string> 
+    <string name="pocket_judge_summary">Блокировать экран и кнопки, когда устройство находится в кармане</string> 	
 	
     <!-- Recents style -->
-    <string name="navbar_recents_style_title">Recents style</string>
-    <string name="keys_action_app_switch_defaut">Default</string>
+    <string name="navbar_recents_style_title">Стиль недавних приложений</string>
+    <string name="keys_action_app_switch_defaut">По умолчанию</string>
     <string name="keys_action_omniswitch_short">OmniSwitch</string>
-    <string name="omniswitch_settings">Settings</string>
-    <string name="omniswitch_dialog_running_new">OmniSwitch is currently not enabled. Please enable it in the app settings.</string>
-    <string name="omniswitch_dialog_unavail">OmniSwitch is not installed.</string>
-    <string name="omniswitch_title">Recents style</string>
+    <string name="omniswitch_settings">Настройки</string>
+    <string name="omniswitch_dialog_running_new">В настоящее время OmniSwitch не включен. Включите его в настройках приложения.</string>
+    <string name="omniswitch_dialog_unavail">OmniSwitch не установлен.</string>
+    <string name="omniswitch_title">Стиль недавних приложений</string>
 
     <!-- Doze: switches -->
-    <string name="doze_display_summary">Configure settings for ambient display</string>
-    <string name="tilt_sensor_title">Tilt sensor</string>
-    <string name="pickup_sensor_title">Pick up sensor</string>
-    <string name="proximity_sensor_title">Proximity sensor</string>
-    <string name="tilt_title">Tilt</string>
-    <string name="tilt_summary">Pulse notifications on tilt</string>
-    <string name="pickup_title">Pick up</string>
-    <string name="pickup_summary">Pulse notifications on pick up</string>
-    <string name="handwave_title">Hand wave</string>
-    <string name="handwave_summary">Pulse notifications on hand wave</string>
-    <string name="pocket_title">Pocket</string>
-    <string name="pocket_summary">Pulse notifications on removal from pocket</string>
-    <string name="doze_vibrate">Vibrate</string>
-    <string name="doze_vibrate_summary">Duration to vibrate when pulsing notifications</string>
-    <string name="sensor_warning_title">Caution</string>
-    <string name="sensor_warning_message">Settings based on sensors are subject to hardware compatibility. Enabling sensors for ambient display may increase power drain.</string>
+    <string name="doze_display_summary">Настройка параметров для внешнего дисплея</string>
+    <string name="tilt_sensor_title">Датчик наклона</string>
+    <string name="pickup_sensor_title">Датчик подъема</string>
+    <string name="proximity_sensor_title">Датчик приближения</string>
+    <string name="tilt_title">Наклон</string>
+    <string name="tilt_summary">Импульсные уведомления при наклоне</string>
+    <string name="pickup_title">Подъем</string>
+    <string name="pickup_summary">Импульсные уведомления при подъеме</string>
+    <string name="handwave_title">Взмах рукой</string>
+    <string name="handwave_summary">Импульсные уведомления при взмахе рукой</string>
+    <string name="pocket_title">Карман</string>
+    <string name="pocket_summary">Импульсные уведомления в кармане</string>
+    <string name="doze_vibrate">Вибрация</string>
+    <string name="doze_vibrate_summary">Продолжительность вибрации при подаче импульсных уведомлений</string>
+    <string name="sensor_warning_title">Оповещение</string>
+    <string name="sensor_warning_message">Настройки на основе датчиков зависят от совместимости оборудования. Включение датчиков для отображения окружающей среды может привести к увеличению расхода электроэнергии.</string>
 
     <!-- Quick pull down-->
-    <string name="quick_pulldown_title">Quick pulldown</string>
+    <string name="quick_pulldown_title">Быстрое раскрытие</string>
     <string name="quick_pulldown_summary">%1$s edge of the status bar pulls down Quick Settings</string>
-    <string name="quick_pulldown_summary_always">Always show Quick Settings on status bar pulldown</string>
-    <string name="quick_pulldown_off">Off</string>
-    <string name="quick_pulldown_left">Left</string>
-    <string name="quick_pulldown_right">Right</string>
-    <string name="quick_pulldown_always">Always</string>
+    <string name="quick_pulldown_summary_always">Всегда показывать быстрые настройки в раскрывающемся меню строки состояния</string>
+    <string name="quick_pulldown_off">Откл.</string>
+    <string name="quick_pulldown_left">Слева</string>
+    <string name="quick_pulldown_right">Справа</string>
+    <string name="quick_pulldown_always">Всегда</string>
 
     <!-- Smart pulldown-->
-    <string name="smart_pulldown_title">Smart pulldown</string>
-    <string name="smart_pulldown_summary">Open quick settings when there are %1$s notifications</string>
-    <string name="smart_pulldown_none_summary">Open quick settings when there are no notifications</string>
-    <string name="smart_pulldown_off">Off</string>
-    <string name="smart_pulldown_none">No notifications</string>
+    <string name="smart_pulldown_title">Интеллектуальное раскрывающееся меню</string>
+    <string name="smart_pulldown_summary">Открывайте быстрые настройки при наличии %1$s уведомлений</string>
+    <string name="smart_pulldown_none_summary">Открывать быстрые настройки, когда нет уведомлений</string>
+    <string name="smart_pulldown_off">Откл.</string>
+    <string name="smart_pulldown_none">Нет уведомлений</string>
     <string name="smart_pulldown_dismissable">No dismissable</string>
-    <string name="smart_pulldown_ongoing">No ongoing</string>
+    <string name="smart_pulldown_ongoing">Нет текущих</string>
 
     <!-- QS footer icons -->
-    <string name="qs_footer_services_title">Running Services icon</string>
-    <string name="qs_footer_services_summary">Display Running Services icon in quick settings footer</string>
-    <string name="qs_footer_settings_title">Settings icon</string>
-    <string name="qs_footer_settings_summary">Display Settings icon in quick settings footer</string>
+    <string name="qs_footer_services_title">Значок «Запуск служб»</string>
+    <string name="qs_footer_services_summary">Показывать значек «Запущенные службы» в нижнем колонтитуле быстрых настроек</string>
+    <string name="qs_footer_settings_title">Настройка значка</string>
+    <string name="qs_footer_settings_summary">Показывать значок «Настройки» в нижнем колонтитуле быстрых настроек</string>
 
     <!-- Expanded desktop -->
-    <string name="expanded_desktop_pref_title">Expanded desktop</string>
-    <string name="expanded_desktop_pref_summary">Hide statusbar and navbar in some apps</string>
-    <string name="expanded_hide_nothing">Hide nothing</string>
-    <string name="expanded_hide_status">Hide status bar</string>
-    <string name="expanded_hide_navigation">Hide navigation bar</string>
-    <string name="expanded_hide_both">Hide both</string>
-    <string name="expanded_nothing_to_show">To add a custom per-app configuration for expanded state, set "Enabled for all" to the off position</string>
-    <string name="expanded_desktop_state">Expanded state</string>
-    <string name="expanded_enabled_for_all">Enabled for all</string>
-    <string name="expanded_user_configurable">User configurable</string>
-    <string name="expanded_desktop_style">Expanded desktop style</string>
-    <string name="expanded_desktop_style_description">Choose a default expanded desktop style</string>
-    <string name="expanded_desktop_title">Expanded desktop options</string>
+    <string name="expanded_desktop_pref_title">Расширенный рабочий стол</string>
+    <string name="expanded_desktop_pref_summary">Скрыть панель состояния и навигацию в некоторых приложениях</string>
+    <string name="expanded_hide_nothing">Скрыть ничего</string>
+    <string name="expanded_hide_status">Скрыть строку состояния</string>
+    <string name="expanded_hide_navigation">Скрыть панель навигации</string>
+    <string name="expanded_hide_both">Скрыть оба</string>
+    <string name="expanded_nothing_to_show">Чтобы добавить настраиваемую конфигурацию для каждого приложения для расширенного состояния, установите «Включено для всех» в положение «выключено»</string>
+    <string name="expanded_desktop_state">Расширенное состояние</string>
+    <string name="expanded_enabled_for_all">Включено для всех</string>
+    <string name="expanded_user_configurable">Пользовательские настройки</string>
+    <string name="expanded_desktop_style">Расширенный стиль рабочего стола</string>
+    <string name="expanded_desktop_style_description">Выберите расширенный стиль рабочего стола по умолчанию</string>
+    <string name="expanded_desktop_title">Расширенные параметры рабочего стола</string>
 
     <!-- Allow fake signature checkbox in developer settings -->
-    <string name="allow_signature_fake">Allow signature spoofing</string>
-    <string name="allow_signature_fake_summary">Allow apps to bypass security systems by pretending to be a different app</string>
+    <string name="allow_signature_fake">Разрешить фальшивую подпись</string>
+    <string name="allow_signature_fake_summary">Разрешить приложениям обойти систему безопасности, делая вид, что это другое приложение.</string>
 </resources>
