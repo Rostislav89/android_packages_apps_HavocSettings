@@ -21,7 +21,7 @@
     <string name="about_title">About</string>
     <string name="animations_title">Анимации</string>
     <string name="buttons_title">Клавиши</string>
-    <string name="display_title">Расширенный экран</string>
+    <string name="display_title">Экран</string>
     <string name="gestures_title">Жесты</string>
     <string name="ime_title">IME Настройки</string>
     <string name="interface_title">Интерфейс</string>
@@ -35,7 +35,7 @@
     <string name="statusbar_title">Строка состояния</string>
     <string name="system_title">Система</string>
     <string name="weather_title">Погода</string>
-    <string name="volume_title">Кнопки громкости</string>
+    <string name="volume_title">Громкость</string>
     <string name="device_part_title">Устройство</string>
     
     <!-- General strings -->
@@ -46,7 +46,7 @@
     <string name="attention">Внимание</string>
     <string name="action_save">Сохранить</string>
     <string name="action_cancel">Отменить</string>
-    <string name="enabled">Включить</string>
+    <string name="enabled">Включено</string>
 
     <!-- Label for feature switch [CHAR LIMIT=30] -->
     <string name="switch_bar_on">Вкл.</string>
@@ -75,14 +75,14 @@
     <string name="corners_category">Углы</string> 
     <string name="ls_clock" >Стиль часов</string>
     <string name="ls_date" >Стиль даты</string>
-    <string name="ls_shortcuts" >Ярлики</string>
+    <string name="ls_shortcuts" >Ярлыки</string>
     <string name="ls_bot_elements" >Иконки вирт. клавиш</string>
     <string name="ls_disable_elements" >Отключить элементы</string>
     <string name="ls_aplha" >Прозрачность</string>
     <string name="ls_info" >Дополнительная информация</string>
     <string name="ls_unlocking" >Разблокирование</string>
     <string name="ls_nofi" >Ограничить уведомления</string>
-    <string name="ls_colors" >Цвет элементов</string>
+    <string name="ls_colors" >Цвета элементов</string>
     <string name="misc_plug" >USB and Plug</string>
     <string name="misc_screenshot" >Скриншот</string>
     <string name="statusbar_clock" >Часы</string>
@@ -111,7 +111,7 @@
 
     <!-- Blink flashlight for incoming calls -->
     <string name="flashlight_on_call_title">Мерцание вспышки во время вызова</string>
-    <string name="flashlight_on_call_disabled">Отключить</string>
+    <string name="flashlight_on_call_disabled">Отключено</string>
     <string name="flashlight_on_call_not_dnd">Только в режиме звонка</string>
     <string name="flashlight_on_call_dnd">Только в режиме DND</string>
     <string name="flashlight_on_call_always">Всегда</string>
@@ -673,7 +673,7 @@
     <string name="status_bar_clock_font_size_title">Размер шрифта</string>
     <string name="clock_date_right">Справа от часов</string>
     <string name="clock_date_left">Слева от часов</string>
-    <string name="clock_date_position">Разположение даты</string>
+    <string name="clock_date_position">Расположение даты</string>
 
     <!-- QS footer warnings -->
     <string name="qs_footer_warnings_title">Предупреждения нижнего колонтитула QS</string>
